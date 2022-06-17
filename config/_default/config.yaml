@@ -1,6 +1,6 @@
-#baseURL: https://alena-bartosh.github.io/writer-blog
-baseURL: /
-title: Eureka Demo
+baseURL: https://alena-bartosh.github.io/writer-blog
+#baseURL: /
+title: Texts & Notes
 
 # Uncomment when not installing with Hugo Modules
 theme: eureka
@@ -10,13 +10,12 @@ theme: eureka
 
 paginate: 3
 copyright: >
-  &copy; 2021 <a href="https://www.wangchucheng.com/">WANG Chucheng</a> and <a
-  href="https://www.ruiqima.com/">MA Ruiqi</a>
+  &copy; 2022 <a href="https://t.me/bartosh_alena"> Alena Bartosh </a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
 
-defaultContentLanguage: en
+defaultContentLanguage: ru
 hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir: false
 
