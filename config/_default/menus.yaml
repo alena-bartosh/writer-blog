@@ -1,4 +1,5 @@
 main:
-  - name: Read
+  - name: Истории
     url: /texts/
-    weight: 2
+  - name: Стихи
+    url: /poetry/

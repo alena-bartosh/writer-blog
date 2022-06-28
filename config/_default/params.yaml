@@ -1,6 +1,7 @@
 mainSections:
-  - posts
-description: Eureka is a elegant and powerful theme for Hugo.
+  - texts
+  - poetry
+description: Just some stories from my head
 
 repoEditURL:
 
