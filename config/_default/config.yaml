@@ -1,6 +1,6 @@
 baseURL: https://alena-bartosh.github.io/writer-blog
 #baseURL: /
-title: Texts & Notes
+title: AB
 
 # Uncomment when not installing with Hugo Modules
 theme: eureka
@@ -39,7 +39,6 @@ taxonomies:
   category: categories
   tag: tags
   series: series
-  author: authors
 
 build:
   useResourceCacheWhen: always

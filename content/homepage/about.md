@@ -1,13 +1,8 @@
 ---
-title: AB
+title: Alena Bartosh
 draft: false
-role: Example Role
+role: Небольшой публичный блог личного пользования для длительного хранения исключительно скоропортящихся вещиц
 avatar: images/icon.png
-bio: текст буквы слова
-organization:
-  name: Example Organization
-  url: https://example.com/
-
 
 weight: 1
 widget:
