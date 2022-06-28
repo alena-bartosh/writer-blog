@@ -2,7 +2,7 @@
 title: Alena Bartosh
 draft: false
 role: Небольшой публичный блог личного пользования для длительного хранения исключительно скоропортящихся вещиц
-avatar: images/icon.png
+avatar: images/icon-ab.png
 
 weight: 1
 widget:
