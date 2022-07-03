@@ -1,4 +1,5 @@
 baseURL: https://alena-bartosh.github.io/writer-blog
+canonifyurls: true
 #baseURL: /
 title: AB
 
